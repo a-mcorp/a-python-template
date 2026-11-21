@@ -1,4 +1,4 @@
-<sup>This project has been generated using ['A-Python-Template' (APT)](https://github.com/a-matthew/a-python-template).</sup>
+<sup>This project has been generated using ['A-Python-Template' (APT)](https://github.com/a-mcorp/a-python-template).</sup>
 
 ## Metadata
 Lots of information regarding the AppImage building process and specifications can be found under the AppImage project's [GitHub Wiki](https://github.com/AppImage/AppImageKit/wiki).

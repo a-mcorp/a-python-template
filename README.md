@@ -1,4 +1,4 @@
-<sup>This project has been generated using ['A-Python-Template' (APT)](https://github.com/a-matthew/a-python-template).</sup>
+<sup>This project has been generated using ['A-Python-Template' (APT)](https://github.com/a-mcorp/a-python-template).</sup>
 
 # {project-name}
 
